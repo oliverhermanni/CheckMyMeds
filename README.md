@@ -9,3 +9,7 @@ HCIW is a Startup Weekend like event, which took part the second time. I pitched
 easy to read alternative to package inserts. 
 
 This is the click dummy we built during this weekend.
+
+If any images included violates your Copyright, please get in touch with me, I'll change them.
+
+Logo by Björn Adam (bjoernadam.de)
